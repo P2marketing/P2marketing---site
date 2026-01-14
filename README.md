@@ -77,7 +77,7 @@ Atualize os links de contato na seção CTA:
 ## 📱 Seções do Site
 
 1. **Header**: Navegação fixa com menu responsivo
-2. **Hero**: Headline forte com CTAs destacados e estatísticas
+2. **Hero**: Headline forte com CTAs destacados e estatísticas 
 3. **Método TED**: Explicação do método Transformar, Escalar, Dinheiro
 4. **Prova Social**: Depoimentos e resultados comprovados
 5. **Benefícios**: Diferenciais da P2 Marketing
